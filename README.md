@@ -8,6 +8,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zed201&langs_count=10&theme=react&layout=compact" alt="Zed201 :: Top Langs" />
     </p>
 </div>
+
+<div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zed201&theme=transparent" width=16000px />
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
