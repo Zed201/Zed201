@@ -1,8 +1,8 @@
 
 ### Estudante de Engenharia da Computação no CIN-UFPE
 <div>
-      <img width=450 src="https://github-readme-stats.vercel.app/api?username=Zed201&show_icons=true&theme=tokyonight" />
-      <img width=450 src='https://leetcode.card.workers.dev/Zed201?theme=nord&font=baloo&extension=null' />
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=Zed201&show_icons=true&theme=tokyonight" />
+      <img width=400 src='https://leetcode.card.workers.dev/Zed201?theme=nord&font=baloo&extension=null' />
 </div>
 
 
