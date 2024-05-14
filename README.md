@@ -8,3 +8,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,neovim&theme=dark)](https://skillicons.dev)
 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
