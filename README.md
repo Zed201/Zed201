@@ -16,4 +16,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-![snake gif](https://github.com/Zed201/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Zed201/Zed201/blob/output/github-contribution-grid-snake.svg)
