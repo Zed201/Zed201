@@ -6,14 +6,5 @@
 </div>
 
 
-
-<div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zed201&theme=transparent" width=16000px />
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/>
-  <img align="center" alt="C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/>
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"/>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,neovim&theme=dark)](https://skillicons.dev)
 
