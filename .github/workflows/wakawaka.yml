@@ -20,4 +20,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False
           SHOW_TIMEZONE: "False"
           SHOW_SHORT_INFO: "False"
-          Timeline: "False"
+          TIMELINE: "False"
