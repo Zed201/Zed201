@@ -20,4 +20,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_SHORT_INFO: "False"
-          TIMELINE: "False"
+          DEBUG_LOGGING: "False"
+          SHOW_PROJECTS: "False"
