@@ -6,7 +6,7 @@
 </div>
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py,java,neovim&theme=dark)](https://skillicons.dev)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
