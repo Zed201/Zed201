@@ -11,19 +11,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 14 May 2024 - To: 30 August 2024
+From: 14 May 2024 - To: 31 August 2024
 
-Total Time: 120 hrs 45 mins
+Total Time: 121 hrs 21 mins
 
-C                35 hrs 52 mins  >>>>>>>------------------   29.10 %
-C++              22 hrs 22 mins  >>>>>--------------------   18.15 %
-Rust             19 hrs 58 mins  >>>>---------------------   16.20 %
-Python           11 hrs 44 mins  >>-----------------------   09.52 %
-Makefile         6 hrs 33 mins   >------------------------   05.32 %
-SystemVerilog    6 hrs 27 mins   >------------------------   05.23 %
-Text             4 hrs 13 mins   >------------------------   03.42 %
-Assembly         3 hrs 41 mins   >------------------------   03.00 %
-Other            2 hrs 31 mins   >------------------------   02.05 %
+C                35 hrs 52 mins  >>>>>>>------------------   28.96 %
+C++              22 hrs 22 mins  >>>>>--------------------   18.07 %
+Rust             20 hrs 16 mins  >>>>---------------------   16.37 %
+Python           12 hrs 1 min    >>-----------------------   09.71 %
+Makefile         6 hrs 33 mins   >------------------------   05.29 %
+SystemVerilog    6 hrs 27 mins   >------------------------   05.21 %
+Text             4 hrs 13 mins   >------------------------   03.41 %
+Assembly         3 hrs 41 mins   >------------------------   02.99 %
+Other            2 hrs 31 mins   >------------------------   02.04 %
 ```
 
 <!--END_SECTION:waka-->
